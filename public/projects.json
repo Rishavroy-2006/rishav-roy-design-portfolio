@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "title": "Neon Cyberpunk Music Festival",
+    "description": "A highly energetic and vibrant poster for an underground cyberpunk music festival. Designed using bold typography and high-contrast neon colors in Canva.",
+    "category": "Poster",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?auto=format&fit=crop&q=80&w=800",
+    "fullImageUrl": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?auto=format&fit=crop&q=80&w=1600",
+    "canvaUrl": "https://www.canva.com",
+    "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "Farewell Invitation Card",
+    "description": "A dark themed invitation card for final year students inviting them for their farewell",
+    "category": "Poster",
+    "thumbnailUrl": "/uploads/thumb-1778012201435-958182185.webp",
+    "fullImageUrl": "/uploads/full-1778012201435-958182185.webp",
+    "canvaUrl": "https://canva.link/gj4ops2qsfvdbzy",
+    "pdfUrl": "/uploads/1778012201416-120136034-Farewell Invitation.pdf",
+    "featured": true
+  },
+  {
+    "id": "3",
+    "title": "Farewell Flex Design",
+    "description": "Large scale flex design featuring a farewell party ",
+    "category": "Flex Design",
+    "thumbnailUrl": "/uploads/thumb-1778012586639-444544599.webp",
+    "fullImageUrl": "/uploads/full-1778012586639-444544599.webp",
+    "canvaUrl": "https://canva.link/33ucad10ucgqdnl",
+    "pdfUrl": "/uploads/1778012586560-892277248-Flex.pdf",
+    "featured": true
+  },
+  {
+    "id": "4",
+    "title": "Minimalist Startup ID Cards",
+    "description": "A clean, typography-focused physical ID badge with geometric backgrounds for tech startup employees.",
+    "category": "ID Card",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1621570169567-cb4527dfdc79?auto=format&fit=crop&q=80&w=800",
+    "fullImageUrl": "https://images.unsplash.com/photo-1621570169567-cb4527dfdc79?auto=format&fit=crop&q=80&w=1600",
+    "canvaUrl": "https://www.canva.com",
+    "featured": false
+  },
+  {
+    "id": "5",
+    "title": "Achievements Certificate",
+    "description": "An elegant award certificate with gold foil accents, classical serif typography, and a prominent badge.",
+    "category": "Certificate",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1589330694653-efa647532028?auto=format&fit=crop&q=80&w=800",
+    "fullImageUrl": "https://images.unsplash.com/photo-1589330694653-efa647532028?auto=format&fit=crop&q=80&w=1600",
+    "canvaUrl": "https://www.canva.com",
+    "featured": false
+  },
+  {
+    "id": "6",
+    "title": "Summer Event Banner",
+    "description": "A vibrant social media banner with warm sunset gradients, organic shapes, and playful typography.",
+    "category": "Banner",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&q=80&w=800",
+    "fullImageUrl": "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&q=80&w=1600",
+    "canvaUrl": "https://www.canva.com",
+    "featured": false
+  },
+  {
+    "id": "7",
+    "title": "Abstract Business Cards",
+    "description": "Bold, abstract painting-inspired business cards designed for a contemporary art gallery.",
+    "category": "Card",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1616628188540-5e36eab53748?auto=format&fit=crop&q=80&w=800",
+    "fullImageUrl": "https://images.unsplash.com/photo-1616628188540-5e36eab53748?auto=format&fit=crop&q=80&w=1600",
+    "canvaUrl": "https://www.canva.com",
+    "featured": false
+  },
+  {
+    "id": "8",
+    "title": "Tech Weekly Digest",
+    "description": "Another iteration of the newsletter focusing purely on dark mode constraints with neon highlights.",
+    "category": "Newsletter",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1557200134-90327ee9fafa?auto=format&fit=crop&q=80&w=800",
+    "fullImageUrl": "https://images.unsplash.com/photo-1557200134-90327ee9fafa?auto=format&fit=crop&q=80&w=1600",
+    "canvaUrl": "https://www.canva.com",
+    "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "featured": false
+  }
+]
